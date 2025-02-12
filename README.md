@@ -5,7 +5,6 @@
 I am fascinated by how much choice there is if I want to upgrade my voron v0.1 mini afterburner. I guess I am not the only one, so I created this documents to share my findings.
 
 ## Stock: Mini Afterburner (Mini AB)
-https://github.com/VoronDesign/Voron-0
 
 Cons (things to be improved):
 - High chamber temperature results in fan overheating, ultimately leads to blower fan failure.
