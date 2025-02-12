@@ -75,11 +75,11 @@ Cons:
 Verdict:
 
 If you just want an easy, stylish and practical upgrade
---> Mini AS moded from Mini AB
+- --> Mini AS moded from Mini AB
 
 If you would like to improve on fan overheating and extruder assembly:
---> Mini SB, or
---> Mini AS moded from Mini SB
+- --> Mini SB, or
+- --> Mini AS moded from Mini SB
 
 If you would like an all-around improvement
---> DB
+- --> DB
