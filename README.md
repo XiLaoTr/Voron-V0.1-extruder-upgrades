@@ -73,7 +73,7 @@ Cons:
 
 Verdict:
 
-If you just want an easy and stylish upgrade
+If you just want an easy, stylish and practical upgrade
 --> Mini AS moded from Mini AB
 
 If you would like to improve on fan overheating and extruder assembly:
