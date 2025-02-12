@@ -72,7 +72,7 @@ Pros:
 Cons:
 - Extra purchase of 4010 fan required.
 
-Verdict:
+## Verdict:
 
 If you just want an easy, stylish and practical upgrade
 - --> Mini AS moded from Mini AB
@@ -83,3 +83,12 @@ If you would like to improve on fan overheating and extruder assembly:
 
 If you would like an all-around improvement
 - --> DB
+
+## Things I noticed
+The fixing screws of mini AB and mini SB are not the same (26mm vs 25mm). I wonder why is the design choice....
+
+
+<img src="https://github.com/XiLaoTr/Voron-V0.1-extruder-upgrades/blob/main/v0.1-dist.png" width="400">
+<img src="https://github.com/XiLaoTr/Voron-V0.1-extruder-upgrades/blob/main/v0.2-dist.png" width="400">
+
+
