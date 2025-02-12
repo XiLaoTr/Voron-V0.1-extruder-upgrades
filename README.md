@@ -14,7 +14,9 @@ Cons (things to be improved):
 - In case of heat creep/ grinding gear / any other filament jam happening below the extrusion gear, it is very difficult to take the extruder apart.
 - Looks less cool comparing with other mods here.
 
-## Direct upgrade: Mini Stealthburner (Mini SB)
+Below I listed 4 options that I found relavent.
+
+## Option 1: Mini Stealthburner (Mini SB)
 https://github.com/VoronDesign/Voron-0
 
 Pros:
@@ -27,7 +29,7 @@ Cons:
 - If you still use endstops for homing, eemember to print a different X-carriage https://www.printables.com/model/517984-v02-voron-02-x-carriage-with-x-endstop-and-a-drive
 - Reported cased of overheating fans in extreme cases.
 
-## Mini Afterssherpa (Mini AS) moded from Mini AB
+## Option 2: Mini Afterssherpa (Mini AS) moded from Mini AB
 https://github.com/PrintersForAnts/Mini-AfterSherpa
 
 Similar concept: https://www.printables.com/model/169127-voron-0-sherpa-mini-mount
@@ -41,7 +43,7 @@ Cons:
 - Fan overheating risk not solved.
 
 
-## Mini AS moded from Mini SB
+## Option 3: Mini AS moded from Mini SB
 https://www.printables.com/model/451261-voron-02-r1-sherpa-mini-micro-stealthburner
 
 Pros: 
@@ -55,7 +57,7 @@ Cons:
 - Some overheating cases are still reported
 
 
-## Dragon Burner (DB)
+## Option 4: Dragon Burner (DB)
 https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
 Previous version available if you do not wish to change X-carriage
 https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner/Old_Versions/v4
