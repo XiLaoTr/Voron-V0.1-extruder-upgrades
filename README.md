@@ -29,6 +29,9 @@ Cons:
 - If you still use endstops for homing, remember to print a different X-carriage https://www.printables.com/model/517984-v02-voron-02-x-carriage-with-x-endstop-and-a-drive
 - Reported cased of overheating fans in extreme cases.
 
+Note: 
+- If you have a small length of belt poking out on the x carriage, like me and author of this video:https://www.youtube.com/watch?v=MPhTicKIbMc, you could use a small cylinder to create an recess. 
+
 ## Option 2: Mini Afterssherpa (Mini AS) moded from Mini AB
 https://github.com/PrintersForAnts/Mini-AfterSherpa
 
