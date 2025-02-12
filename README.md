@@ -21,12 +21,13 @@ https://github.com/VoronDesign/Voron-0
 
 Pros:
 - Very modern polygon looking.
+- Upgrade is mostly straight-forward and do not require new 
 - Inclusion of fan saver should protect the blower fans from overheating.
 - Adjusting extrusion gears is way easier. Filament path is also straight now.
 
 Cons:
 - Needs to change the X-carriage and re-tighten belt. Could be a pain if you have not seen this trick: https://www.youtube.com/watch?v=d77Zsg4DETU
-- If you still use endstops for homing, eemember to print a different X-carriage https://www.printables.com/model/517984-v02-voron-02-x-carriage-with-x-endstop-and-a-drive
+- If you still use endstops for homing, remember to print a different X-carriage https://www.printables.com/model/517984-v02-voron-02-x-carriage-with-x-endstop-and-a-drive
 - Reported cased of overheating fans in extreme cases.
 
 ## Option 2: Mini Afterssherpa (Mini AS) moded from Mini AB
